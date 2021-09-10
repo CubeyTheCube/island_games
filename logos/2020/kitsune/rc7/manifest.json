@@ -1,0 +1,16 @@
+{
+  "name": "Island Games",
+  "short_name": "Island Games",
+  "start_url": "kitsune20.html",
+  "display": "standalone",
+  "background_color": "#fdfdfd",
+  "theme_color": "#db4938",
+  "orientation": "landscape-primary",
+  "icons": [
+    {
+      "src": "./icon.png",
+      "type": "image/png",
+      "sizes": "500x500"
+    }
+  ]
+}
